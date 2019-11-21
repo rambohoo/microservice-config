@@ -5,10 +5,8 @@ spring:
 ---
 spring:
   profiles: dev
-server: 
-  port: 111
+port: 111
 ---
 spring:
   profiles: test
-server: 
-  port: 222
+port: 222
